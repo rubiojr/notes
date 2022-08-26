@@ -14,6 +14,7 @@
 * https://fly.io/blog/sqlite-internals-btree/
 * https://fly.io/blog/sqlite-internals-wal/
 * https://litestream.io/blog/why-i-built-litestream/
+* Making SQLite faster: https://turriate.com/articles/making-sqlite-faster-in-go
 
 ## Projects
 
