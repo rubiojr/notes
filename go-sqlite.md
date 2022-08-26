@@ -33,5 +33,6 @@
 
 * Crawshaw: https://github.com/crawshaw/sqlite 
 * cznic: https://gitlab.com/cznic/sqlite
-*
+* tailscale: https://github.com/tailscale/sqlite
+* mattn: https://github.com/mattn/go-sqlite3
 
